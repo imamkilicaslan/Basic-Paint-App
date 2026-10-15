@@ -1,2 +1,2 @@
 # Basic-Paint-App
-### A paint app for a school lesson.
+#### A paint app for a school lesson.
