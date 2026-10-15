@@ -1,2 +1,2 @@
 # Basic-Paint-App
-### Comment Lines is only Turkish.
+### A paint app for a school lesson.
